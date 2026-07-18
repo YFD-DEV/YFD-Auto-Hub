@@ -1,0 +1,12 @@
+{
+  "name": "YFD Auto Hub",
+  "version": "0.9.0",
+  "buildId": "8a749ca19127b72d",
+  "builtAt": "2026-07-18T03:20:27.717Z",
+  "source": "AutoContainerGui.local.lua",
+  "sourceBytes": 210441,
+  "sourceSha256": "593e57beda767110adcb46b8c537fb630c3c011b427652cfc9c3083756421a0f",
+  "sourceAdler32": "13a9397a",
+  "output": "dist/YFD_AutoHub.obf.lua",
+  "protection": "offline randomized stream encoding with shuffled chunks and integrity verification"
+}
